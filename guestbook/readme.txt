@@ -1,11 +1,11 @@
-*****************************************************
-* EZGuestbook V 3.5 copyright 2013 by Steve Frazier   *
-* www.htmljunction.com                              *
-*                                                   *
-* You may modify and distribute this script as      *
-* long as this readme.txt with the copyright header *
-* remains with it.                                  *
-***************************************************** 
+****************************************
+* EZGuestbook V 4 copyright 2023 by Steve Frazier   
+* www.htmljunction.com                              
+*                                                   
+* You may modify and distribute this script as      
+* long as this readme.txt with the copyright header 
+* remains with it.                                  
+***************************************
 
 *******************Installation Instructions*******************************
 
